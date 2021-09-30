@@ -27,6 +27,12 @@
     ]
   },
   "projects": {
+    "ui": {
+      "tags": []
+    },
+    "ui-layout": {
+      "tags": []
+    },
     "web-portal": {
       "tags": []
     },
